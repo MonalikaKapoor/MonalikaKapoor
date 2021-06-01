@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <h3 align="center">A Strong Willed & Eager to learn person🙋‍♀️😄|| Community Lover ❤️ || Creative👩‍🎨</h3>
 <img align="right" alt="Aspiring Coder" width="48%" height="50%" src="https://user-images.githubusercontent.com/67543895/119683791-92dd1680-be61-11eb-84a6-b44625c4096c.png">
 
-
+- 🙋‍♀️ Microsoft Learn Student Ambassador
+- 😇 Google Generation Scholarship APAC Recipient 2021
 - 👯 I’m looking to collaborate on projects in web development!
 - 🙌 I'm always up for collaborative learning!
 - 📫 How to reach me **likamona16@gmail.com**
