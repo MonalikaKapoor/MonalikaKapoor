@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 - 🙋‍♀️ Microsoft Learn Student Ambassador
 - 😇 Google Generation Scholarship APAC Recipient 2021
+- 😄 Virtual Grace Hopper Celebration Scholar 2021
 - 👯 I’m looking to collaborate on projects in web development!
 - 🙌 I'm always up for collaborative learning!
 - 📫 How to reach me **likamona16@gmail.com**
