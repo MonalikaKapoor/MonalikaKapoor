@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 
 <a href="https://linkedin.com/in/monalika7" target="blank"><img align="center" src="https://user-images.githubusercontent.com/67543895/119684673-5100a000-be62-11eb-9750-91ac8dfd078b.png" alt="monalika7" height="50" width="50" /></a>
 <a href="https://twitter.com/monalikakapoor" target="blank"><img align="center" src="https://user-images.githubusercontent.com/67543895/119684902-84432f00-be62-11eb-9cd8-313478c7b293.png" alt="monalikakapoor" height="50" width="50" /></a>
-
-<!-- <a href="https://medium.com/@monalika7" target="blank"><img align="center" src="https://user-images.githubusercontent.com/67543895/119685040-a472ee00-be62-11eb-9126-2fac026b5cec.png" alt="@monalika7" height="30" width="40" /></a> -->
+<a href="https://monalika.medium.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/67543895/119685040-a472ee00-be62-11eb-9126-2fac026b5cec.png" alt="@monalika7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
